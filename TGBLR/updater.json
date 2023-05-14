@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
-    "changelog": "Changes various localisation strings to either be more descriptive, or consistent with other parts of the game. Initial Release", 
+    "version": "1.0.2",
+    "changelog": "Changes various localisation strings to either be more descriptive, or consistent with other parts of the game. Fixed dart gun description issue.", 
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
