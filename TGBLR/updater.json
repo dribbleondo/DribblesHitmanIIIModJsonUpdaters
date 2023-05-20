@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
-    "changelog": "Added a less ambiguously worded Katana Kill Prestige Objective description, as well as custom descriptions for the CEFTs in Freelancer. Added MANY more descriptions for weapons introduced into Hitman (2016) and Hitman 2, as well as fixes for the ICA Combat Axe and ICA19 Silverballer descriptions. NOTE: The ICA 19, Silverballer, and Chrome all share the same description internally -- Hopefully I can fix this soon.",
+    "version": "1.1.1",
+    "changelog": "Fixed redundant portion of description for Napoleon Blownaparte.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
