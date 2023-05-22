@@ -1,6 +1,6 @@
 {
-    "version": "1.1.2",
-    "changelog": "Edited Janus's bio as it included a retcon that doesn't make a lick of sense to add, other than to piss off comic nerds like myself -- Worst. Story addition. Ever. Changed menu UI text for the Freelancer safehouse to be more consistent with the TitleIn text for the Hitman locations.",
+    "version": "1.1.3",
+    "changelog": "Fixed the bio's for The Revolutionary and The Liability, which were filled with redundant sentances, malformed line breaks and spelling errors.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
