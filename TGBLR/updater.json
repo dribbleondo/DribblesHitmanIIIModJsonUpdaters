@@ -1,6 +1,6 @@
 {
-    "version": "1.1.4",
-    "changelog": "Updated credits, more fixed biographies for Elusive Targets (Haynes, Dame Babs Liz Keating, Miranda Jamison, Philo, The Deceivers and Bowden). Ten Minute Terry has already gotten a new bio last update.",
+    "version": "1.1.5",
+    "changelog": "Fixed various spelling errors (my own, not anyone elses), Changed various text strings on suits for added clarity, Fixed biographies of The Procurers that had malformed line breaks (seriously IOI, you need two BR's, not one!).",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
