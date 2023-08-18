@@ -1,5 +1,5 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.71",
     "changelog": "Added new name and description for the Ancestral Pistol; the Ancestral 2-2, and fixed an odd name for a keycard in Hokkaido that IOI still haven't fixed. This mod is also set to load AFTER Heritage UI, as that mod renames many suits and weapons. This doesn't stop the renaming, merely enforces the few renames I've done to override it.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
