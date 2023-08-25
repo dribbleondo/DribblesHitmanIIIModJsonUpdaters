@@ -1,6 +1,6 @@
 {
-    "version": "1.1.8",
-    "changelog": "Fixed description for the Casual Suit being used as the name for it. Minor description adjustments.",
+    "version": "1.1.81",
+    "changelog": "Removes annoying wording on the APC Turret from \"Missing Key\" to \"Cannot Activate. Requires Password\", which is more consistent with other items in the game. This works on The Extractor too.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
