@@ -1,6 +1,6 @@
 {
-    "version": "1.1.82",
-    "changelog": "Adds spanish string for some placeholder text found in The Corky Commotion -- Thanks IWILLCRAFT!.",
+    "version": "1.1.9",
+    "changelog": "Adjusted Dino Bosco's briefing text as it has a really odd line break after the second paragraph that no other 2016 target uses: The ICA19, ICA19 Chrome and ICA19 Silverballer now all have custom descriptions when you select them from the loadout menu or Freelancer! This was due to the Gun descriptions sharing the same ID in the repo, which IOI have since partially fixed. Does NOT apply to the Career loadout menu.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
