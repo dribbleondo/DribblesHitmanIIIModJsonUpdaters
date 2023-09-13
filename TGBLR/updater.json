@@ -1,6 +1,6 @@
 {
-    "version": "1.1.97",
-    "changelog": "Fixed horribly implemented line breaks found in various Hokkaido medical journals, thank you IWILLCRAFT for sending this in to me!. This fix has been applied to ALL languages!. I have also adjusted the English text of Riepers' journal to make a little more sense, though this has NOT been done for every language, sorry.",
+    "version": "1.2.0",
+    "changelog": "Fixed issues with some wording relating to Sniper Assassin in The Author and Landslide. Miscelleneous spanish fixes, thanks IWILLCRAFT for sending both of these in! Fixed mis-spelling of Specimen that I made.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
