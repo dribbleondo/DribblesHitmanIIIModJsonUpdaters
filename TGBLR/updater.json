@@ -1,6 +1,6 @@
 {
-    "version": "1.2.0",
-    "changelog": "Fixed issues with some wording relating to Sniper Assassin in The Author and Landslide. Miscelleneous spanish fixes, thanks IWILLCRAFT for sending both of these in! Fixed mis-spelling of Specimen that I made.",
+    "version": "1.2.2",
+    "changelog": "Added a new name for the Trendy Tourist Suit (Traveller and Tourist Suit), modified the Subject 47 suits’ description, and fixed MORE line break malformities in the H2 DLC briefings",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
