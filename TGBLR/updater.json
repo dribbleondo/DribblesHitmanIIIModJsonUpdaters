@@ -1,6 +1,6 @@
 {
-    "version": "1.2.2",
-    "changelog": "Added a new name for the Trendy Tourist Suit (Traveller and Tourist Suit), modified the Subject 47 suits’ description, and fixed MORE line break malformities in the H2 DLC briefings",
+    "version": "1.2.25",
+    "changelog": "Changed the descriptions of the “Dagger! Dagger!” and “Patient 47” challenges to be more consistent with other challenges in WoA (Sniper Assassin/ SA/SO etc). Adjusted the APC turret text to read “Requires Password to Activate”, which is a little less clunky, and a bit easier to read in-game.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
