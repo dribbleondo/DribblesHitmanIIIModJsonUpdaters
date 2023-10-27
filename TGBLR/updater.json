@@ -1,6 +1,6 @@
 {
-    "version": "1.2.31",
-    "changelog": "Fixed several redundant escape symbols that were not needed in the code, as well as a duplicated ID for the Remote Collectors Concussive Duck, thanks Notex for spotting these. Changed the name of Breaching Charge Mk III to Remote Breaching Charge Mk III, thanks Hinaomi for the suggestion!.",
+    "version": "1.2.32",
+    "changelog": "Fixed The Drops Intel. STOP BREAKING THE LINE BREAKS IOI!!!!! >:/",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
