@@ -1,6 +1,6 @@
 {
-    "version": "1.2.33",
-    "changelog": "Fixed a really stupid English typo in the 'Explosions Run loose' challenge text. Added new description for the Purple Streak suit. Added a new name and new descriptions for upcoming suits.",
+    "version": "1.2.34",
+    "changelog": "Fixed incorrect behaviour for the Explosive Xmas Gift, where it said it would attract attention, when that simply was not true. Minor changes to the Futo suit's description.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
