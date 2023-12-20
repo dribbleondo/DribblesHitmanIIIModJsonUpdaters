@@ -1,6 +1,6 @@
 {
-    "version": "1.2.34",
-    "changelog": "Fixed incorrect behaviour for the Explosive Xmas Gift, where it said it would attract attention, when that simply was not true. Minor changes to the Futo suit's description.",
+    "version": "1.2.35",
+    "changelog": "Fixed erroneous ID for the car key in Hawkes Bay (Thanks, VoodooHillbilly!).",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
