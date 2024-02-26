@@ -1,6 +1,6 @@
 {
-    "version": "1.2.0",
-    "changelog": "Potential crash fix. Made several Prims use unique hashes, which should stop the crashing. Do let me know if that hasn't worked!",
+    "version": "1.3.0",
+    "changelog": "Fixed 2016 maps having very...glitchy legs. This was caused by PRIMS I was testing to get things working still being in there. This should also fix crashing, but do let me know if that hasn't worked!",
     "url": "https://www.dropbox.com/scl/fi/vtzg3kbh74yshq0v55623/The-Killers-Tourist-Outfit.7z?rlkey=qxsm7bgmasbdz7sgbhqd4swcd&dl=1"
     "managedFilesAndFolders": [
         "The Killers Tourist Outfit"
