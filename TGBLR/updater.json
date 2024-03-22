@@ -1,6 +1,6 @@
 {
-    "version": "1.2.35",
-    "changelog": "Fixed erroneous ID for the car key in Hawkes Bay (Thanks, VoodooHillbilly!).",
+    "version": "1.2.40",
+    "changelog": "Added new name for the Remote Explosive Purple Duck (Purple Streak duck), and slightly tweaked the description. Likely more changes I cannot remember adding.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
