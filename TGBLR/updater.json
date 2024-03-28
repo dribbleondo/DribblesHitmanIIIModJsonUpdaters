@@ -1,6 +1,6 @@
 {
-    "version": "1.2.42",
-    "changelog": "The previous .1 released fixed The Gemini Fiasco - Level 5 having a repeated bit of localisation in German. This release fixes very odd line break behaviour in The Undying Returns intel",
+    "version": "1.2.43",
+    "changelog": "Made the Blue Easter Egg description less generic, as it's now a proper item unlock. Praise be for IO Interactive not understanding timezones!",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
