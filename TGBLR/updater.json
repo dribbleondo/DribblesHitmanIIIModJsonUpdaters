@@ -1,6 +1,6 @@
 {
-    "version": "1.2.44",
-    "changelog": "Made the Blue Easter Egg description less generic, as it's now a proper item unlock. Praise be for IO Interactive not understanding timezones!",
+    "version": "1.2.45",
+    "changelog": "Fixed linebreaks in Dartmoor intel for the family. This resulted in the removal of one linebreak due to overflow issues.",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
