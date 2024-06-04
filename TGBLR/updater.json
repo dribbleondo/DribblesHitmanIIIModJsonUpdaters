@@ -1,6 +1,6 @@
 {
-    "version": "1.2.47",
-    "changelog": "New descriptions for the Shears, the Burial Dagger and the Branson MD-2 Microphone, while the Burial Dagger is now known as Janus' Burial Dagger.",
+    "version": "1.2.48",
+    "changelog": "Fixed some weapons having their new descriptions or names in thr wrong file....not sure how THAT happened?!? (Thank you VoodooHillbilly for noticing this!).",
     "url": "https://dl.dropboxusercontent.com/s/v500od7bkaaju6q/The%20Great%20Big%20Localisation%20Revamp.zip?dl=0",
     "managedFilesAndFolders": [
         "The Great Big Localisation Revamp"
