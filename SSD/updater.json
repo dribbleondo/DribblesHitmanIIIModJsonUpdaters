@@ -1,5 +1,5 @@
 {
     "version": "1.1.0",
-    "changelog": "Fixed the christmas decorations not ebing enabled.Turns out I needed to remove a seperate value in another entity.",
+    "changelog": "Fixed the christmas decorations not being enabled.Turns out I needed to remove a seperate value in another entity.",
     "url": "https://www.dropbox.com/scl/fi/0isp4wiiuugs43wh6hd6v/Seasonal-Safehouse-Decorations.zip?rlkey=zamvr15jbz7dl22wrqj8ud7yz&st=senwd1hr&dl=1"
 }
