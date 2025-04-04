@@ -1,6 +1,6 @@
 {
-    "version": "1.2.0",
-    "changelog": "Moved certain props in the first field, and the metal box outside the shed is now behind the flatbed truck near the duo talking about Berg/ Youtube videos.",
+    "version": "1.2.1",
+    "changelog": "Generated new NAVP and AIRG files in a newer build of NavKit to compensate for recent changes made to cover in 1.2.0",
     "url": "https://www.dropbox.com/scl/fi/bzbgkqrom13ir2fnmuom5/Consistent-Colorado.zip?rlkey=70mta3qynwpp8eb0fd4og7cj0&st=131bcilv&dl=1",
     "managedFilesAndFolders": [
         "Consistent Colorado"
