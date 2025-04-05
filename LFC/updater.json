@@ -1,6 +1,6 @@
 {
-    "version": "1.2.1",
-    "changelog": "Generated new NAVP and AIRG files in a newer build of NavKit to compensate for recent changes made to cover in 1.2.0",
+    "version": "1.2.2",
+    "changelog": "Adjusted stash placements in Freelancer. This shoulds resolve potential issues where stashes cannot be opened in certain places due to the new placement of certain props.",
     "url": "https://www.dropbox.com/scl/fi/bzbgkqrom13ir2fnmuom5/Consistent-Colorado.zip?rlkey=70mta3qynwpp8eb0fd4og7cj0&st=131bcilv&dl=1",
     "managedFilesAndFolders": [
         "Consistent Colorado"
