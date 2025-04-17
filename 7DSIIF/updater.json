@@ -1,0 +1,8 @@
+{
+    "version": "1.1.0",
+    "changelog": "COMPLETELY reworked the Gear Wall for the items. The layout is now prettier when you own all of them. Fixed pivot transforms so inspecting the items won't make the ietms eat the camera or, in the case of the saber, slit its throat.",
+    "url":  "https://www.dropbox.com/scl/fi/qqc7707iiaw70jiyrr9bv/7DS-Items-in-Freelancer.zip?rlkey=f1q0bs73wn04c6dzda20egjw8&st=nt7o2xx3&dl=1", 
+    "managedFilesAndFolders": [
+        "7DS Items in Freelancer"
+    ]
+}
