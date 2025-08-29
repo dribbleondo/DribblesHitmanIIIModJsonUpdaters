@@ -1,6 +1,6 @@
 {
-    "version": "1.2.0",
-    "changelog": "More suits have tattoos. Some suits have been removed due to odd deploy issues. They will be re-added soon.",
+    "version": "1.3.0",
+    "changelog": "Added tattoos to all remaning suits that were asked for. SF and Mumbai's standard variants have been removed due to crashing issues.",
     "url": "https://www.dropbox.com/scl/fi/olq6n8p0wl334o9haspio/CrimsonCaligula-Commish.zip?rlkey=yevr9ek0p1t8wcn6vhdbb36jh&st=9ykd8hhw&dl=1",
     "managedFilesAndFolders": [
         "CrimsonCaligula Commish"
