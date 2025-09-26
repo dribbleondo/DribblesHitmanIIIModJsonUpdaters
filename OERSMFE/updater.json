@@ -1,5 +1,5 @@
 {
-    "version": "1.5.0",
-    "changelog": "Fixed an issue where most Elusives had the incorrect entitlements due to IOI changing them so they could bring back episodic gaming on iOS. No really, that's why they did it.",
+    "version": "1.6.0",
+    "changelog": "Added the Infiltrator.",
     "url": "https://www.dropbox.com/scl/fi/v7zsu4s5nzjdf67k5ds44/Offline-Elusives-Redux-SMF.zip?rlkey=82j9ghgsy6g6oiof9kcdzl1bv&st=csndnlfh&dl=1"
 }
