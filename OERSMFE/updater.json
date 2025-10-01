@@ -1,5 +1,5 @@
 {
-    "version": "1.6.0",
-    "changelog": "Added the Infiltrator.",
+    "version": "1.7.0",
+    "changelog": "Reinstates the Elusive Targets tile on the dashboard that was removed when myself and Anthony Fuller redid the code many moons ago. The code behind this is significantly less convoluted than before as well. Praise TS6 json!",
     "url": "https://www.dropbox.com/scl/fi/v7zsu4s5nzjdf67k5ds44/Offline-Elusives-Redux-SMF.zip?rlkey=82j9ghgsy6g6oiof9kcdzl1bv&st=csndnlfh&dl=1"
 }
