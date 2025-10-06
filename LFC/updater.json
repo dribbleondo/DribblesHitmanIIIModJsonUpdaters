@@ -1,4 +1,4 @@
 {
-    "version": "1.2.8",
-    "changelog": "Added Pumpkins to the map in the same spots as vanilla. Updated bucket sick spot in the kitchen area to corellate to where the bucket actually is now.",
+    "version": "1.2.9",
+    "changelog": "Converted to patch file instead of replacing the map entity entirely. This also makes the mod quicker to download and patch now",
     "url": "https://www.dropbox.com/scl/fi/bzbgkqrom13ir2fnmuom5/Consistent-Colorado.zip?rlkey=70mta3qynwpp8eb0fd4og7cj0&st=1sjv4ssk&dl=1"
