@@ -1,4 +1,4 @@
 {
-    "version": "1.2.9",
-    "changelog": "Converted to patch file instead of replacing the map entity entirely. This also makes the mod quicker to download and patch now",
+    "version": "1.3.0",
+    "changelog": "New NAVP file has been generated with the latest version of Navkit. This should fix the weird staring into space bug some guards exhibit in certain parts of the map.",
     "url": "https://www.dropbox.com/scl/fi/bzbgkqrom13ir2fnmuom5/Consistent-Colorado.zip?rlkey=70mta3qynwpp8eb0fd4og7cj0&st=1sjv4ssk&dl=1"
