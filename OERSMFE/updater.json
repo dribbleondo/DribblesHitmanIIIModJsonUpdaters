@@ -1,5 +1,5 @@
 {
-    "version": "1.8.0",
-    "changelog": "Added The Reflection.",
+    "version": "1.8.1",
+    "changelog": "Fixed The Sensation Capitlisation Crash in the contractdata (yes, that's really what caused it to crash). I'll be adding a compatibility option for the menu option to account for Kevin Rudd's Custom Mission Pack in a later update.",
     "url": "https://www.dropbox.com/scl/fi/v7zsu4s5nzjdf67k5ds44/Offline-Elusives-Redux-SMF.zip?rlkey=82j9ghgsy6g6oiof9kcdzl1bv&st=csndnlfh&dl=1"
 }
